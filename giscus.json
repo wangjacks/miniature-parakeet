@@ -1,0 +1,10 @@
+{
+  "origins": [
+    "https://blog.wj0.top",
+    "https://wj0.top",
+  ],
+  "originsRegex": [
+    "https://wangjacks-blog-hexo-[\\w-]+-wangjacks-projects\\.vercel\\.app"
+  ],
+  "defaultCommentOrder": "oldest"
+}
