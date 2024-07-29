@@ -1,7 +1,7 @@
 {
   "origins": [
     "https://blog.wj0.top",
-    "https://wj0.top",
+    "https://blog.wj0s.com",
   ],
   "originsRegex": [
     "https://wangjacks-blog-hexo-[\\w-]+-wangjacks-projects\\.vercel\\.app"
